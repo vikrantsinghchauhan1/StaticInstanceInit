@@ -28,6 +28,8 @@ public class Student {
         System.out.println("Number of student in college " + studentCount);
         System.out.println("Name of the Student " + name);
 
+        //Their is four student because instance initialization called four times
+
     }
 
 }
